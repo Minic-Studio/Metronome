@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/hihat_closed01.ogg-896335aa116b6201ed555224ccb10e2e.oggstr"
+
+[deps]
+
+source_file="res://sfx/hihat_closed01.ogg"
+dest_files=[ "res://.import/hihat_closed01.ogg-896335aa116b6201ed555224ccb10e2e.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0
